@@ -1,0 +1,89 @@
+Till sidans huvudinnehåll
+Besök 1177.se, logga in för personliga e-tjänster eller ring 1177 för sjukvårdsrådgivning.
+Logga inpå 1177.se
+Hitta vårdpå 1177.se
+Sökpå 1177.se
+Meny
+Liv & hälsa
+Barn & gravid
+Olyckor & skador
+Sjukdomar & besvär
+Undersökning & behandling
+Så fungerar vården
+Start
+Att arbeta i Optimizely
+Översättningar
+Att publicera en regional översättning
+Så publicerar du en regional översättning
+Här beskrivs hur du gör för att publicera en översättning som ska ligga regionalt.
+Innan du beställer översättningen, tänk över om du behöver översätta någon mer info som inte ingår i själva texten. Det kan till exempel vara:
+Meningen ”Denna länk leder till en text på svenska” – den behövs om du ska länka till en svensk text.
+Artikelfoten: Infon i ditt eget personblock och granskarens titel och arbetsplats. Se över om fler ord saknas i artikelfoten på språket, till exempel Senast uppdaterad/Redaktör/Fotograf/Granskare. Alla artiklar på samma språk använder samma artikelfot.
+Namn på samlingssidan där artikeln ska ligga.
+Vad själva språket heter, ifall det saknas översättning för det i listan över språk.
+Steg ett: skapa en svensk grundartikel
+Innan du publicerar själva översättningen behöver du skapa en svensk grundartikel som alla språkversioner kopplas till. Den svenska grundartikeln ska sedan avpubliceras så att det inte ligger en tom sida på sajten.
+Alla inställningar i den svenska grundartikeln följer med i de kopplade översättningarna, som till exempel val av region och datum för revidering. Därför kan översättningar som enbart ska ligga regionalt inte kopplas till en nationell svensk grundartikel.
+Här finnsinstruktioner för att skapa en grundartikel.
+Steg två: publicera språkartikeln
+Markera den svenska grundartikeln som översättningen eller den lättlästa artikeln ska kopplas till i Opti-trädet.
+Bläddra sedan fram det språk du vill ha i språkhanteraren Languages, och klicka på Create - Start with a blank page.
+Om det redan finns en språkartikel av samma text kan du istället välja Create - Duplicate.
+Fyll i följande:Namn:Artikelns namn på svenska + artikelns namn på översättningsspråket. Detta är VIKTIGT för att hitta rätt bland artiklarna!Skriv även regionens namn i namnet.Exempel: Lämna prov för covid-19 – Getting tested for COVID-19_dalarnaNamn i URL:Artikelns namn + språket den översatts tillExempel: nar-ska-jag-aka-till-forlossning-arabiskaRubrik:Översättning av rubriken, från det översatta dokumentet.
+Bryggan
+Du behöver översätta blocken till aktuellt språk innan du kan arbeta i dem, det gäller för alla språk och alla block. När du klickar på skapa eller redigera ett block så kommer frågan upp om du vill översätta, i en gul banner högt upp på sidan.
+I bryggan ska du lägga in följande länkar:
+Skriv in Lästexten på svenska här+ länka till motsvarande text på lätt svenska (när du söker upp sidan i länkverktyget kommer den synas på det språk som du för tillfället jobbar med i Opti. Välj svenska lättläst som tillval i fältet språk. Annars fungerar inte länken.)
+Länka till den längre versionen om det finns en sådan. Skriv in Du kan läsa enlängre version av texten här(välj svenska som tillval i fältet Språk).
+Blocken
+Översätt varje block till det aktuella språket. När du klickar på skapa eller redigera ett block så kommer frågan upp om du vill översätta.
+Blockens namnska vara blockets rubrik på svenska + på det översatta språket. Ex: Komplikationer-Complications.
+Se över om länkarna i texten leder vidare till artiklar som finns översatta på samma språk och länka i så fall dit, annars ta bort länkarna. Om länkar till svenska artiklar behöver vara med, se till att lägga till en mening på det översatta språket om att länken går till en svensk artikel.
+BlocketTexten finns översatt – other languagesska bara finnas med i den svenska lättlästa. Det ska ligga längst ner i texten och lista alla länkar till eventuella översättningar.Läs här om hur vi skriver.Ta bort blocket i översättningarna.
+Artikelfot
+Kontrollera att personblocken (granskare och redaktör) är översatta till rätt språkversion i Opti. Om inte, kontakta nationella redaktionen via ett ärende. Ange Opti-id för blocket och vilka språk du vill översätta det till.
+Lägg till pufflista
+Dra in Pufflista navigering xx (det aktuella språket) i fältet för Artikelpuffar. Du hittar den under Block/Artikelpuffblock till höger i vyn. När du klickar där kommer pufflistan för rätt språk upp i menyn.
+Skriv in datum i planeringsfliken
+Skriv vilket datum översättningen eller den lättlästa artikeln har publicerats eller reviderats, eftersom detta inte registreras automatiskt för översättningar. Datumet vid Senast uppdaterad följer i stället med från den svenska grundartikeln.
+Nu kan du publicera!
+Efter publicering
+Vid publicering av lättläst artikel
+Lägg in en länk till den regionala lättlästa i bryggan i den ursprungliga längre artikeln, om det finns en sådan. Skriv så här:
+Den här texten finns också på lättläst svenska.Lägg till länken i ett tillägg till bryggan om det gäller en nationell artikel.
+Vid publicering av översättning
+Uppdatera länklistan längst ner i motsvarande text på lättläst svenska med den nya översättningen.Texten finns översatt - other languages.
+Lägg till språket i samlingssidan över alla språk
+Se till att språket finns med i listan med språk påsidan Other languages. Regionala språkartiklar ska ligga som tillägg längst ner i listan.Så här gör du för att lägga till en länk i listan. Hör av dig till nationella redaktionen om du behöver hjälp–det är krångligt!
+Tipsa & dela artikeln
+Dela på facebook
+Dela på twitter
+Dela via mejl
+Skriv ut sidan
+Hitta på sidan
+Steg ett: skapa en svensk grundartikel
+Steg två: publicera språkartikeln
+Efter publicering
+1177
+–tryggt om din hälsa och vård
+På 1177.se får du råd om hälsa och information om sjukdomar och vilka mottagningar du kan kontakta. Logga in för att läsa din journal och göra dina vårdärenden. Ring telefonnummer 1177 för sjukvårdsrådgivning dygnet runt.1177 ger dig råd när du vill må bättre.
+Other Languages
+Lätt svenska
+Om 1177
+E-tjänster
+Aktuellt
+Kontakt
+Press
+Digital tillgänglighet
+Other Languages
+Lätt svenska
+Om 1177
+E-tjänster
+Aktuellt
+Kontakt
+Press
+Digital tillgänglighet
+Behandling av personuppgifter
+Hantering av kakor
+Inställningar för kakor
+1177 – en tjänst frånInera.

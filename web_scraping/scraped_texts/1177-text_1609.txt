@@ -1,0 +1,93 @@
+Till sidans huvudinnehåll
+Besök 1177.se, logga in för personliga e-tjänster eller ring 1177 för sjukvårdsrådgivning.
+Logga inpå 1177.se
+Hitta vårdpå 1177.se
+Sökpå 1177.se
+Meny
+Liv & hälsa
+Barn & gravid
+Olyckor & skador
+Sjukdomar & besvär
+Undersökning & behandling
+Så fungerar vården
+Start
+Att arbeta i Optimizely
+Instruktioner och riktlinjer
+Instruktioner och riktlinjer
+Här hittar du instruktioner och riktlinjer för hur du arbetar i Optimizely.
+Innehåll - Instruktioner och riktlinjer
+APIAPI gör det möjligt för andra webbplatser att hämta information från 1177.se. Det är bara text som hämtas, inte bilder eller bildspel. Generellt ska sidorna på 1177.se inkluderas i denna tjänst, men det finns en del sidor som inte ska göra det.
+API
+API gör det möjligt för andra webbplatser att hämta information från 1177.se. Det är bara text som hämtas, inte bilder eller bildspel. Generellt ska sidorna på 1177.se inkluderas i denna tjänst, men det finns en del sidor som inte ska göra det.
+Arbeta med artiklarHär hittar du information som är bra att känna till när du arbetar med artiklar i Optimizely.
+Arbeta med artiklar
+Här hittar du information som är bra att känna till när du arbetar med artiklar i Optimizely.
+EnkätpuffNär vi gör en NKI-mätning eller liknande behöver vi publicera en speciell puff som leder in till enkäten. En sådan puff visas på alla sidor, precis under toppmenyn.
+Enkätpuff
+När vi gör en NKI-mätning eller liknande behöver vi publicera en speciell puff som leder in till enkäten. En sådan puff visas på alla sidor, precis under toppmenyn.
+FokusrutorRiktlinjer för att använda fokusruta på 1177.se.
+Fokusrutor
+Riktlinjer för att använda fokusruta på 1177.se.
+FormulärHur du skapar ett formulär beror på om du är nationell eller regional redaktör.  Du bygger alla formulär i globala resursbiblioteteket. För att kunna se formuläret måste det ligga på en sida.
+Formulär
+Hur du skapar ett formulär beror på om du är nationell eller regional redaktör.  Du bygger alla formulär i globala resursbiblioteteket. För att kunna se formuläret måste det ligga på en sida.
+GranskningsfunktionenDu kan starta och slutföra en granskning i Opti med hjälp av granskningsfunktionen.
+Granskningsfunktionen
+Du kan starta och slutföra en granskning i Opti med hjälp av granskningsfunktionen.
+LänkarHär finns information om hur du arbetar med länkar
+Länkar
+Här finns information om hur du arbetar med länkar
+MeddelandefunktionenHär finns instruktioner för hur du gör ett tillfälligt meddelande som syns på alla artiklar.
+Meddelandefunktionen
+Här finns instruktioner för hur du gör ett tillfälligt meddelande som syns på alla artiklar.
+Nyheter och aktuelltHär kan du läsa om skillnaden mellan nyhetsartiklar och aktuelltartiklar.
+Nyheter och aktuellt
+Här kan du läsa om skillnaden mellan nyhetsartiklar och aktuelltartiklar.
+ProjektfunktionenMed funktionen Projekt kan du arbeta med en artikel utan att det syns utåt.
+Projektfunktionen
+Med funktionen Projekt kan du arbeta med en artikel utan att det syns utåt.
+SamlingssidorEn samlingssida är ett sätt att göra det enklare för besökaren att navigera. På samlingssidan visas flera artiklar inom samma område.
+Samlingssidor
+En samlingssida är ett sätt att göra det enklare för besökaren att navigera. På samlingssidan visas flera artiklar inom samma område.
+StandardtexterInstruktioner för att skapa och arbeta med standardtexter på 1177.se.
+Standardtexter
+Instruktioner för att skapa och arbeta med standardtexter på 1177.se.
+StartsidanStartsidan är i första hand skyltfönstret för 1177.se. Bilden i huvudpuffen på startsidan ska kännas varm och harmonisk och den ska stärka varumärket 1177. Startsidan ska upplevas aktuell och relevant.
+Startsidan
+Startsidan är i första hand skyltfönstret för 1177.se. Bilden i huvudpuffen på startsidan ska kännas varm och harmonisk och den ska stärka varumärket 1177. Startsidan ska upplevas aktuell och relevant.
+SökHär kan du läsa om hur du arbetar med sök i Opti
+Sök
+Här kan du läsa om hur du arbetar med sök i Opti
+TabellerLär dig göra fina tabeller.
+Tabeller
+Lär dig göra fina tabeller.
+Mer på 1177.se
+Skapa och revidera innehåll på 1177.se
+Här finns instruktioner och information om våra processer och granskningsflöde. Du hittar också information om vad som kan vara regional information.
+Riktlinjer för bild och video
+Här finns riktlinjer, instruktioner och information om hur du lägger in bilder och filmer i artiklar. Det finns även information om bildrättigheter och avtal.
+Regionalt
+Här finns information för dig som är regional redaktör eller arbetar med regionalt material i Optimizely.
+1177
+–tryggt om din hälsa och vård
+På 1177.se får du råd om hälsa och information om sjukdomar och vilka mottagningar du kan kontakta. Logga in för att läsa din journal och göra dina vårdärenden. Ring telefonnummer 1177 för sjukvårdsrådgivning dygnet runt.1177 ger dig råd när du vill må bättre.
+Other Languages
+Lätt svenska
+Om 1177
+E-tjänster
+Aktuellt
+Kontakt
+Press
+Digital tillgänglighet
+Other Languages
+Lätt svenska
+Om 1177
+E-tjänster
+Aktuellt
+Kontakt
+Press
+Digital tillgänglighet
+Behandling av personuppgifter
+Hantering av kakor
+Inställningar för kakor
+1177 – en tjänst frånInera.

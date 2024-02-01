@@ -1,0 +1,64 @@
+Till sidans huvudinnehåll
+Besök 1177.se, logga in för personliga e-tjänster eller ring 1177 för sjukvårdsrådgivning.
+Logga inpå 1177.se
+Hitta vårdpå 1177.se
+Sökpå 1177.se
+Meny
+Liv & hälsa
+Barn & gravid
+Olyckor & skador
+Sjukdomar & besvär
+Undersökning & behandling
+Så fungerar vården
+Start
+Att arbeta i Optimizely
+Instruktioner och riktlinjer
+Enkätpuff
+Enkätpuff
+När vi gör en NKI-mätning eller liknande behöver vi publicera en speciell puff som leder in till enkäten. En sådan puff visas på alla sidor, precis under toppmenyn.
+Det går bara att publicera en enkätpuff åt gången. Det går att skapa fler men det är bara den som ligger överst som syns utåt.
+Så här gör du
+Gå till[inställningar]i Opti. Endast de redaktörer som har behörighet till [Inställningar]-sidan kan publicera enkätpuffen.
+I fältetenkätpuffarskapar du ett nytt block. Det nya blocket heterenkät – ingångspuff.
+Fyll i en kort text, knapptext och länk till enkäten.Rekommenderad textmängd för enkätpuffen är färre än 140 tecken. Puffen ska inte innehålla radbrytningar eller punktlistor.
+Lägg till en länk till enkäten. Länken ska inte läggas i externa länkbiblioteket först.
+Fyll i startdatum och slutdatum för publicering.
+Publicera inställningssidan.
+Färdigt!
+Tipsa & dela artikeln
+Dela på facebook
+Dela på twitter
+Dela via mejl
+Skriv ut sidan
+Hitta på sidan
+Så här gör du
+Mer på 1177.se
+Meddelandefunktionen
+Här finns instruktioner för hur du gör ett tillfälligt meddelande som syns på alla artiklar.
+Arbeta med artiklar
+Här hittar du information som är bra att känna till när du arbetar med artiklar i Optimizely.
+Länkar
+Här finns information om hur du arbetar med länkar
+1177
+–tryggt om din hälsa och vård
+På 1177.se får du råd om hälsa och information om sjukdomar och vilka mottagningar du kan kontakta. Logga in för att läsa din journal och göra dina vårdärenden. Ring telefonnummer 1177 för sjukvårdsrådgivning dygnet runt.1177 ger dig råd när du vill må bättre.
+Other Languages
+Lätt svenska
+Om 1177
+E-tjänster
+Aktuellt
+Kontakt
+Press
+Digital tillgänglighet
+Other Languages
+Lätt svenska
+Om 1177
+E-tjänster
+Aktuellt
+Kontakt
+Press
+Digital tillgänglighet
+Behandling av personuppgifter
+Hantering av kakor
+Inställningar för kakor
+1177 – en tjänst frånInera.

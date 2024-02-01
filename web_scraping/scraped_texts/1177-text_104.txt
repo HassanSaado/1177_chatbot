@@ -1,0 +1,121 @@
+Till sidans huvudinnehåll
+Besök 1177.se, logga in för personliga e-tjänster eller ring 1177 för sjukvårdsrådgivning.
+Logga inpå 1177.se
+Hitta vårdpå 1177.se
+Sökpå 1177.se
+Meny
+Liv & hälsa
+Barn & gravid
+Olyckor & skador
+Sjukdomar & besvär
+Undersökning & behandling
+Så fungerar vården
+Start
+Undersökning & behandling
+Undersökningar och provtagning
+Provtagning och mätningar
+Blodprov
+Blodprov: Kreatinin
+Blodprov: Kreatinin
+Blodprov som visar halten kreatinin i blodet är ett av de vanligaste blodproven. Provet kan hur dina njurar fungerar. Det är vanligt att lämna provet i samband med en undersökning eller inför en behandling med vissa typer av läkemedel.
+Kreatinin förkortas ibland till krea.
+När får jag lämna ett prov för kreatinin?
+Det finns flera tillfällen då du kan få lämna ett kreatininprov.
+Vanligt vid hälsokontroll och inför undersökningar
+Ett kreatininprov ingår ofta som en del av olika läkarundersökningar och hälsokontroller. Provet kan visa hurnjurarnafungerar. Provet kan tas i samband med utredningar av olika sjukdomar eller inför vissa undersökningar.
+Innan du startar en behandling
+Många läkemedel lämnar kroppen via njurarna ochurinen. Då kan det vara viktigt att mäta hur njurarna fungerar innan behandlingen startar. Det är för att sådana läkemedel inte ska samlas i kroppen.
+Mäta hur njurarna fungerar under behandling
+Det finns också läkemedel som påverkar njurarna. Det gäller till exempel vissa läkemedel som används för behandling avhögt blodtryckochhjärtsvikt. Det kan vara viktigt att mäta kreatininvärdet vid flera tillfällen om du får en sådan behandling.
+Vad är kreatinin och var finns det?
+Kreatinin bildas i musklerna när kroppen bryter ner kreatinfosfat, som brukar kallas för kroppens energireserv. Då får musklerna extra energi vid hög belastning. Värdet kan variera mellan olika personer. Hur mycket kreatinin som bildas i kroppen beror på hur stor muskelmassa du har, det vill säga hur stor del av din kropp som är muskler.
+Halten av kreatinin kan tillfälligt öka om du har ätit mycket kött. Det gäller särskilt kokt kött.
+Kroppen gör sig av med kreatinin genom njurarna. Kreatinin filtreras från ditt blod i njurarna och följer sedan med urinen ut. Att mäta halten kreatinin kan visa om njurarna fungerar som de ska.
+Kreatininprovet kan analyseras snabbt. Därför används provet ofta för att mäta hur njurarna fungerar. Det finns också andra blodprover som kan användas.
+Hur tas provet?
+Du behöver inte förbereda dig på något särskilt sätt innan du lämnar blodprovet. Men det är vanligt att få sitta ner en stund innan.
+Vårdpersonalen som ska taprovettvättar huden där sticket ska göras. Sedan tar hen provet i ett ytligt blodkärl, en så kallad ven.Läs om hur ett sådant blodprov går till.
+Provet kan lämnas när som helst under dygnet.
+När får jag svar?
+Du kan lämna ett kreatininprov på en vårdcentral eller på ett sjukhus. Provet skickas sedan oftast till ett laboratorium för undersökning. Svaret brukar komma till läkaren senast dagen därpå. Du kan få resultatet mycket snabbare om du får vård på ett sjukhus.
+Hur mäts halten av kreatinin?
+Halten av kreatinin i blodet kan mätas i plasma eller serum.
+Blodet består avblodplasma och blodkroppar. Plasma är den vätska som blir kvar när blodkropparna har tagits bort från ett blodprov.
+Vätskans sammansättning förändras om blodet har fått stelna innan blodkropparna tas bort. Vätskan kallas då för serum.
+Det spelar ingen roll om kreatininhalten mäts i plasma eller serum.
+Metoderna för att mäta kreatinin har förändrats under de senaste åren. Det kan göra att det är svårt att jämföra resultat från mätningar som görs idag med äldre värden i sjukjournaler eller i läroböcker och tidningsartiklar.
+Hur tolkas provsvaret?
+Ett enstaka blodprov ger oftast inte något säkert svar på om du har en sjukdom eller inte. Svaret på provet vägs därför ihop med hur du mår och med andra prover som har tagits.
+Halten av kreatinin i blodet varierar mellan olika människor. Det gäller även när njurarna fungerar som de ska. Halten kan också variera hos samma person vid olika tillfällen.
+Referensintervall
+Läkaren jämför halten med det så kallade referensintervallet när hen ska tolka provsvaret. Referensintervallet är det sammanlagda resultatet av kreatininprov från en stor grupp personer som har njurar som fungerar som de ska.
+Referensintervallet förkvinnorungefär mellan 40 och 90 mikromol per liter. Det brukar förkortas µmol/L.
+Förmänligger referensintervallet oftast mellan 50 och 100 µmol/L.
+Det är svårt att bedöma resultatet av kreatininprovet med referensintervallet. Det beror på att muskelmassan är olika hos olika personer. En person med stor muskelmassa förväntas ha en högre kreatininhalt i blodet än en person med liten muskelmassa.
+eGFR – automatisk beräkning
+För att bättre kunna bedöma kreatininvärdet görs i dag ofta en automatisk beräkning där också andra faktorer vägs in, till exempel kön och ålder. Det ger ett värde som brukar benämnas eGFR. Det är en förkortning av estimated glomerular filtration rate. Det kan förklaras som hur snabbt njurarna filtrerar blodet. Denna typ av beräkning minskar problemet med olika kroppsstorlekar och ger ett värde som om det gällde en normalstor vuxen person. En normalstor vuxen person anses ha en kroppsyta som är 1,73 kvadratmeter.
+Värdet eGFR kan även beräknas på andra sätt. Ibland skrivs detta som eGFR(krea). Då utgår beräkningen från kreatininhalten.
+För vuxna personer som är under 50 år och som inte har någon sjukdom i njurarna förväntas eGFR(krea) vara högre än 80 milliliter per minut och 1,73 kvadratmeter kroppsyta. Det brukar skrivas 80 mL/min/1,73 kvm.
+För personer över 60 år kan värdet eGFR(krea) visa att njurarna inte fungerar som det ska om eGFR(krea) är lägre än 60 mL/min/1,73 kvm
+Höga värden, vad kan det bero på?
+Höga halter av kreatinin i blodet kan bero på flera olika saker. Det kan till exempel vara något av följande:
+Du har en stormuskelmassa.
+Vätskebrist ochuttorkning.
+Det finns ett stopp i urinvägarna. Det kan till exempel vara vidnjursteneller kraftigprostataförstoring.
+Du har ätit mycket kokt kött före provtagningen. Då kan kreatininhalten öka tillfälligt.
+En del läkemedel kan påverka njurarna så att kreatininhalten höjs tillfälligt.
+Njurarna fungerar inte som de ska.
+Njurarna kan också vara påverkade även om kreatininvärdet är inom referensintervallen.
+Det är vanligt att bli undersökt på fler sätt om halten kreatinin är för hög. Det är för att läkaren vill ta reda på orsaken till det höga värdet. Vilken behandling du får beror på vad som orsakar det höga värdet.
+Låga värden, vad kan det bero på?
+Låga halter av kreatinin betyder oftast inte något särskilt. Ibland kan låga halter bero på att du har liten muskelmassa.
+Kreatininhalterna brukar minska vid graviditet. Under en graviditet bildas mer blod i kroppen. När njurarna filtrerar mer blod kan mer kreatinin filtreras ut och lämna kroppen med urinen. Efter förlossningen stiger halterna till vanliga nivåer igen.
+Det finns sjukdomar som kan ge låga halter av kreatinin. Men då finns oftast andra mer tydliga symtom som hjälper läkaren att avgöra vad det är för sjukdom. Behandlingen som du får beror på vad som har gjort att halterna är låga.
+Vanliga förkortningar
+Provet brukar ibland skrivas P-Kreatinin om mätningen är gjord iblodets plasma.
+Provet brukar skrivas S-Kreatinin om mätningen är gjord iblodets serum.
+Kreatinin förkortas ibland till krea.
+Mer på 1177.se
+Blodprov: Natrium
+Blodprov: Kalium
+Att lämna blodprov
+Så fungerar blodet
+Så fungerar njurar och urinvägar
+Tipsa & dela artikeln
+Dela på facebook
+Dela på twitter
+Dela via mejl
+Skriv ut sidan
+Hitta på sidan
+När får jag lämna ett prov för kreatinin?
+Vad är kreatinin och var finns det?
+Hur tas provet?
+När får jag svar?
+Hur mäts halten av kreatinin?
+Hur tolkas provsvaret?
+Höga värden, vad kan det bero på?
+Låga värden, vad kan det bero på?
+Vanliga förkortningar
+1177
+–tryggt om din hälsa och vård
+På 1177.se får du råd om hälsa och information om sjukdomar och vilka mottagningar du kan kontakta. Logga in för att läsa din journal och göra dina vårdärenden. Ring telefonnummer 1177 för sjukvårdsrådgivning dygnet runt.1177 ger dig råd när du vill må bättre.
+Other Languages
+Lätt svenska
+Om 1177
+E-tjänster
+Aktuellt
+Kontakt
+Press
+Digital tillgänglighet
+Other Languages
+Lätt svenska
+Om 1177
+E-tjänster
+Aktuellt
+Kontakt
+Press
+Digital tillgänglighet
+Behandling av personuppgifter
+Hantering av kakor
+Inställningar för kakor
+1177 – en tjänst frånInera.

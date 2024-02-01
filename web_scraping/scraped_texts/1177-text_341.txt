@@ -1,0 +1,170 @@
+Till sidans huvudinnehåll
+Besök 1177.se, logga in för personliga e-tjänster eller ring 1177 för sjukvårdsrådgivning.
+Logga inpå 1177.se
+Hitta vårdpå 1177.se
+Sökpå 1177.se
+Meny
+Liv & hälsa
+Barn & gravid
+Olyckor & skador
+Sjukdomar & besvär
+Undersökning & behandling
+Så fungerar vården
+Start
+Att arbeta i Optimizely
+Instruktioner och riktlinjer
+Granskningsfunktionen
+Granskningsfunktionen
+Du kan starta och slutföra en granskning i Opti med hjälp av granskningsfunktionen. Den fungerar för granskning av innehåll som är publicerat i Opti.
+EpiServer har bytt namn till Optimizely
+När vi publicerar på 1177.se använder vi publiceringssystemet Optimizely, Opti.
+Tidigare hette publiceringsverktyget EpiServer, Epi, och fungerade på samma sätt.
+Det gamla namnet kan stå kvar i vissa instruktioner.
+När en aktuell sida försätts i granskning skapas ett granskningsutkast som kan ses av både redaktören och granskaren i en separat granskningsmiljö. Där kan du som redaktör efter inloggning kommunicera med granskaren i kommentarrutor, innan granskaren slutligen godkänner sidan för återpublicering.
+Redaktören arbetar i Opti och granskningsmiljön, medan granskaren kommunicerar och följer granskningen i granskningsmiljön.
+Som redaktör har du mejlkontakt med granskaren och meddelar när det är dags för granskningens olika steg.
+Logga in och starta en granskning
+Logga in i Opti på den tjänst där du ska använda granskningsfunktionen, till exempel 1177.se, Vårdhandboken, Rikshandboken i barnhälsovård, UMO.se eller Inera.se.
+Öppna CMS i menyval. CMS står för Content Management System.
+Välj den sida du vill ska granskas i granskningsmiljön.
+Klicka på hamburgermenyn på den artikeln du vill ska granskas och klicka sedan på ”redigera granskningsflöde”. Detta steg kräver att du har admin-behörighet i Opti.
+Följ stegen nedan i Opti innan du besöker granskningsmiljön.
+Redigera granskningsflöde
+Du ska starta granskning och har i stegen ovan valt ”redigera granskningsflöde” i Opti.
+Bocka sedan i ”Aktiverat”.
+Kontrollera att nödvändiga roller är inlagda i rutan under rubriken ”redo för granskning”, skriv in WebAdmins och WebEditors i rutan för att lägga in dem om de inte finns.
+Du kan också namnge granskningen.
+Klicka sedan på knappen ”spara” uppe till höger och klicka sedan på ”stäng” som ligger bredvid ”spara” knappen. Du har nu sparat granskningsflödet.
+Försätta sida i granskningsläge
+Du ska nu försätta sidan i granskningsläge och får därmed ett granskningsutkast till granskningsmiljön.
+Du som använderProjekti Opti måste nu skapa projektet först. Då samlas alla dina ändringar i projektet som vanligt och du får ett utkast som kan granskas i granskningsmiljön. Använder du inte projekt kan du gå vidare med nästa punkt. Men om du senare väljer att skapa projekt kommer Opti att skapa två versioner av granskningsutkast, vilket kan innebära att innehåll faller bort.
+För att komma åt granskningsutkast i granskningsmiljön behöver någon slags ändring ske i sidan. Det räcker exempelvis med att ändra datum på den aktuella sidan. Det räcker inte att man ändrar endast på blocknivå utan ändringen behöver vara på artikelsidan.
+Gör en ändring och klicka sedan upp rutan med publiceraknappen upp till höger. Nu ska du kunna se en knapp där det står ”Redo att granskas” i rutan.
+Klicka på knappen ”Redo att granskas”. Du ska nu se att knappen "Godkänn" har en gul pil bredvid sig där det står ”Väntar på din granskning”.
+Du kan nu inte längre göra några ändringar i aktuell sida, i så fall behöver du välja status på nytt för aktuell sida, ”fortsätt redigera” eller ”avbryt granskning”.
+Se vilken version som är öppen
+För att enkelt kunna se att du är inne i ett granskningsutkast kan du lägga till gadgeten Versioner. Klicka på hjulikonen med inställningar ovanför trädstrukturen i vänsterspalten.
+När du har öppnat Gadgetar väljer du Versioner i listan för att lägga till.
+Denna gadget har nu lagt sig längst ner under trädstrukturen i Opti. Här kan du se vilken version som är under granskning.
+Fortsätt redigera i Opti
+Nu ska du göra ändringar på sidan efter exempelvis granskarens kommentarer.
+Du som använderProjekti Opti ska nu välja ditt projekt som du skapat tidigare. Då samlas alla dina ändringar i projektet som vanligt.
+Klicka på rutan med publiceraknappen (som nu heter "Godkänn?")  och välj "Fortsätt redigera". Sidan får därmed ett annat status.
+Granskaren kan nu inte kommentera eller godkänna, men kan se sidan.
+Gör dina ändringar och välj återigen "Redo för granskning" om du vill att granskaren ska kunna kommentera och godkänna i granskningsmiljön. Tänk på att du behöver försätta varje block i status "Redo för granskning" för att de ändringar du gör på blocknivå ska visas i granskningsmiljön. Detta behöver göras varje gång du gör en ändring i ett block som ska visas för granskaren i granskningsmiljön.
+Godkänna innehåll inför publicering
+Välj "Godkänn innehåll" om nästa steg är att publicera.
+Om du väljer den blåa knappen "Godkänn innehåll" så kan du välja nästa steg att publicera.
+Observera att du ska välja “Godkänn innehåll” och inte “Godkänna granskningsflöde”. I nuläget har vi bara ett steg i Opti och granskningsflödet behöver därför inte godkännas specifikt.
+Om du behöver göra ytterligare ändringar så väljer du ”Dra tillbaka och redigera” och gör om stegen med "Redo för granskning" igen.
+Avbryt granskning och redigera
+När du vill avsluta granskningsstatus för aktuell sida behöver du välja igen under publiceraknappen.
+Klicka upp rutan med publiceraknappen (som nu har namnet "Godkänn?") och välj "Avbryt granskning och redigera".
+När du valt detta kommer granskaren att få ett felmeddelande att "Sidan kan inte visas" i granskningsmiljön.
+Sammanfattning: Redaktören i Opti
+I Opti kan du som redaktör:
+försätta en sida i granskning
+öppna aktuell sida i granskningsmiljön
+dra tillbaka en pågående granskning för att fortsätta redigera sidans innehåll
+godkänna granskningen
+publicera aktuell sida
+avbryta granskningen.
+De olika valen som redaktören gör i Opti påverkar granskningsmiljön för granskaren på olika sätt. Det är viktigt att skilja på följande:
+När du väljer ”Fortsätt redigera” visas meddelandet "Uppdatering pågår" för granskaren. Granskaren kan då inte kommentera eller godkänna under tiden.
+Om du i stället vill att granskaren inte längre ska kunna se sidan behöver du välja ”Avbryt granskning” eller "Godkänn innehåll".  I så fall visas denna info för granskare: "Sidan kan inte visas".
+Logga in i granskningsmiljön
+Innan du kan logga in i granskningsmiljön som redaktör behöver du få inloggningsuppgifter från PWT-admin, eller annan ansvarig med behörighet i Keycloak, systemet där inloggningsuppgifter administreras.
+Behörighet och inloggning i granskningsmiljön
+När du har kontaktat admin för granskningsbehörighet får du ett mejl från: Granskning noreply@inera.se.
+I mejlet finns det en länk för att byta lösenord i granskningsmiljön. Du får detta mejl när du är ny användare, även om du inte har haft ett lösenord tidigare. Du behöver använda länken samma dag.
+Användarnamnet är din mejladress när du byter lösenord.
+Användarnamnet och det nya lösenordet är dina inloggningsuppgifter i fortsättningen.
+Om du glömmer ditt lösenord klickar du på glömt lösenord och får på nytt ett mejl med en länk från granskningsmiljön.
+För att logga in på aktuell sida och se granskningsutkast
+Alternativ 1:
+Klicka på hamburgermenyn för den aktuella sidan i trädstrukturen i Opti.
+Klicka sedan på ”Öppna i granskningsläge”. Rubriken aktiveras när du gjort en ändring på artikelsidan och granskningsutkastet har skapats.
+Du kommer nu till inloggningsvyn för granskningsmiljön och behöver logga in för att se ditt granskningsutkast. Se nästa kapitel om att logga in och arbeta i granskningsmiljön som redaktör.
+Alternativ 2:
+Besök granskningsmiljön genom adressen:https://granskning.inera.se/dokument/1177
+Logga in med dina inloggningsuppgifter.
+Sök efter aktuella granskningsutkast i sökrutan.
+Hämta granskningslänkar till granskare
+För att granskaren ska kunna komma åt den aktuella sidan i granskningsmiljön behöver du hämta länken till sidan i granskningsutkastet.
+Länken finns i sidhuvudet när du loggar in som redaktör. Denna länk kan kopieras och skickas per mejl till personen som ska granska.
+Information som finns i sidhuvudet:
+Sidans namn.
+Vilken webbplats sidan finns i.
+När granskningen startades av dig som redaktör.
+När granskningsutkastet senast uppdaterades av redaktör.
+Granskningslänken för aktuell sida, som du ska skicka till granskare.
+Att granskningen är pågående (om det är aktuellt status).
+Länk till publicerad sida på 1177.se.
+Inloggningsuppgifter till granskaren
+När du skickar länken till granskaren behöver du också skicka med inloggningsuppgifter till granskningsmiljön. Inloggningsuppgifter skapar du som admin i systemet Keycloak, eller skapas där av en person som är utsedd för att administrera detta inom din tjänst.
+Ny länk för varje granskningsutkast
+För varje granskningsutkast skapas en ny länk. Du kan alltså inte använda samma länk om du startar en ny granskning, exempelvis om du har avbrutit en tidigare granskning, även om det är samma sida som ska granskas.
+Hantera kommentarer i granskningsmiljön
+Som redaktör kan du kommentera allt innehåll i artikeln som är försatt i granskning genom att klicka på ”kommentarsbubblan” bredvid innehållet. Du kommer att få se en kommentarsruta i en panel där du kan kommentera innehållet, spara kommentaren och sedan även klarmarkera. I dessa rutor kan även granskare kommentera.
+När du har skrivit in kommentaren och klickat på spara kommer du att kunna se din kommentar nedanför kommentarsrutan i panelen. Här kommer du att kunna ta bort och klarmarkera kommentaren. De kommentarer du gör i utkastet kan läsas av den granskare som har fått länk och loggat in till aktuell sida i granskningen.
+När du klickar på bocken som klarmarkerar kommentaren blir den grön, det betyder att den enskilda kommentaren som har lagts in har hanterats.
+När kommentarer är besvarade eller hanterade kan man klarmarkera hela kommentarstråden. Du får då upp en ruta som säger att allt är klart. Det innebär att kommentarsfunktionen visas som klarmarkerad.
+Granskaren godkänner slutligen sidan innehåll längst ner i granskningutkastet. Granskningen kan godkännas av flera granskare.
+Sammanfattning: Redaktören i granskningsmiljön
+I granskningsmiljön kan du som inloggad redaktör:
+hämta granskningslänk till den sida som ska granskas, för att skicka länken till granskaren per mejl
+kommentera genom kommentarsrutorna
+klarmarkera kommentarer och kommentarstrådar
+radera kommentarer från granskare och redaktörer
+välja vilken version av sidan du vill titta på från sidhuvudet (aktuellt längre fram när det finns olika versioner som har granskats)
+besöka en granskningslänk även till sidor där granskningen är avslutad.
+Vanliga frågor
+Vanliga frågor om granskningsfunktionen i Opti och granskningsmiljön med separat inloggning.
+Ta kontakt med kontaktperson i PWT eller annan ansvarig som har admin i Keycloak, för att få inloggningsbehörighet.
+Du kan gå till aktuell sida i granskningsmiljön. Klicka på "Glömt lösenord" och du kommer att få ett automatiskt mejl med länk för att byta ditt lösenord. Du behöver använda länken samma dag.
+Det fungerar att göra en ny kommentar även när en kommentarstråd är klarmarkerad, om det finns mer att kommentera.
+Det går bra att godkänna igen, exempelvis om innehållet har ändrats eller kompletterats. Det kommer då att visas godkännande två gånger. Vid godkännandet visas namn, datum och tid.
+Det är ingen skillnad i förhållande till textinnehåll. De illustrationer, bilder, bildspel och filmer som finns i texten kan granskas och kommenteras på samma sätt som textinnehåll i kapitelblock.
+Länkar i kommentarsrutor är inte klickbara. Kopiera i så fall länken och klistra in i webbläsare för att besöka den sidan.
+Tipsa & dela artikeln
+Dela på facebook
+Dela på twitter
+Dela via mejl
+Skriv ut sidan
+Hitta på sidan
+Logga in och starta en granskning
+Redigera granskningsflöde
+Försätta sida i granskningsläge
+Se vilken version som är öppen
+Fortsätt redigera i Opti
+Godkänna innehåll inför publicering
+Avbryt granskning och redigera
+Sammanfattning: Redaktören i Opti
+Logga in i granskningsmiljön
+Hämta granskningslänkar till granskare
+Hantera kommentarer i granskningsmiljön
+Sammanfattning: Redaktören i granskningsmiljön
+Vanliga frågor
+1177
+–tryggt om din hälsa och vård
+På 1177.se får du råd om hälsa och information om sjukdomar och vilka mottagningar du kan kontakta. Logga in för att läsa din journal och göra dina vårdärenden. Ring telefonnummer 1177 för sjukvårdsrådgivning dygnet runt.1177 ger dig råd när du vill må bättre.
+Other Languages
+Lätt svenska
+Om 1177
+E-tjänster
+Aktuellt
+Kontakt
+Press
+Digital tillgänglighet
+Other Languages
+Lätt svenska
+Om 1177
+E-tjänster
+Aktuellt
+Kontakt
+Press
+Digital tillgänglighet
+Behandling av personuppgifter
+Hantering av kakor
+Inställningar för kakor
+1177 – en tjänst frånInera.
