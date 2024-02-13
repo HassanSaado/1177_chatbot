@@ -1,0 +1,143 @@
+Till sidans huvudinnehåll
+Besök 1177.se, logga in för personliga e-tjänster eller ring 1177 för sjukvårdsrådgivning.
+Logga inpå 1177.se
+Hitta vårdpå 1177.se
+Sökpå 1177.se
+Meny
+Liv & hälsa
+Barn & gravid
+Olyckor & skador
+Sjukdomar & besvär
+Undersökning & behandling
+Så fungerar vården
+Start
+Att arbeta i Optimizely
+Översättningar
+Strategi och process för översättningar på 1177.se
+Strategi och process för översättningar på 1177.se
+Här beskrivs hur vi arbetar på 1177.se med översättningar. Du kan bland annat läsa om vilka språk och ämnesområden vi prioriterar och vilken process vi följer.
+Inera anlitar KommunikationsbyrånKAPI agencyför översättningar. 2017 utförde KAPI en behovs- och målgruppsanalys tillsammans med 1177.se. Den ligger till grund för den strategi som 1177.se nu har för översättningar. För närvarande finns inte möjlighet att beställa någon ny analys.
+Strategin och målgrupps- och behovsanalysen finns att läsa i sin helhet här:
+Behovs- och målgruppsanalys_ Översättningar på 1177.se
+Kontakta nationella redaktionen om du inte kommer åt dokumentet.
+Strategi för översättningar
+Att producera och förvalta översättningar är resurskrävande, både i form av externa kostnader och redaktörstid. Det här är viktiga insikter i strategin för en hållbar förvaltning:
+Prioritera ett begränsat antal språk. Skapa ett utbyggt och sammanhängande innehåll med en bra mix på de språken. Det ökar sannolikheten att målgrupperna ser innehållet på 1177.se som relevant och väljer att återkomma.
+Producera innehållet enligtprocessennedan. Utgå från kortfattade texter på lättläst svenska.
+Ha budget för att revidera innehållet vid behov. Se inte kostnaden för översättningar som en engångskostnad.
+Vilka språk översätter vi till?
+En vanlig fråga till 1177.se är hur vi väljer ut vilka språk vi ska översätta till. Det går att läsa mer om detta i behovsanalysen och strategin. Kortfattat handlar det om hur stort behovet är av översatt information på just det språket. Här har det varit viktigt att samla in erfarenheter och syn på behov från hälso- och sjukvården.
+Behovet av översättningar är störst hos nyanlända
+Behovet av översatt information är oftast större ju kortare tid en person har varit i Sverige. Målgruppen för översättningar på 1177.se är personer som har varit i Sverige kortare tid än sex år. Därför har modersmål hos asylsökande och invånare som är utrikes födda och som har varit i Sverige i högst sex år legat till grund för valet av språk.
+De prioriterade språken
+Enligt strategin bör följande språk prioriteras för översättningar, i ordning:
+Engelska
+Arabiska
+Somaliska
+Dari
+Tigrinja
+Polska
+Persiska
+Sorani
+Thailändska
+Vi har valt att i första hand fokusera på de tre största språken:engelska, arabiskaochsomaliska. Engelska är ett vanligt andraspråk hos målgruppen. Genom att översätta till engelska når vi därför ut till många trots att få har engelska som modersmål i Sverige.
+Förändringar i samhället kan påverka behovet, och därför togs till exempel ett antal texter på ukrainska och ryska fram under 2022.
+De nationella minoritetsspråken
+Personer som tillhör en nationell minoritet och talar ett så kallat minoritetsspråk ska enligt lag kunna få information från myndigheter på sitt språk. Det gäller särskilt i de så kallade förvaltningsområdena där språken är vanligare.
+1177 har ingen skyldighet att tillhandahålla översättningar till de nationella minoritetsspråken. Men eftersom verksamheten finansieras med officiella medel bör framförallt regioner med förvaltningsområden för minoritetsspråken ta fram grundläggande översättningar.
+Läs mer här om språklagen, förvaltningsområden och vad som gäller inom vården.
+Svenskt teckenspråk
+Personer som kommunicerar med teckenspråk har särskilda rättigheter att få information på sitt språk. 1177 har ingen skyldighet att erbjuda information på teckenspråk, och har för närvarande inte möjlighet att ta fram innehåll nationellt.
+Information som ska publiceras som teckenspråksfilmer bör från början produceras anpassade för svenskt teckenspråk, då grammatik och uppbyggnad är annorlunda än i svenska.
+Vilken information är viktigast att översätta?
+De ämnesområden som har störst behov av översättningar är följande, utan inbördes ordning:
+Så fungerar vården
+Psykisk hälsa
+Grundläggande kunskap om kroppen
+Vanliga sjukdomar
+Egenvård
+Förebyggande hälsovård
+Tandvård
+Kvinnohälsa och mödravård
+Sexuell och reproduktiv hälsa.
+Kvalitetsgranskad översättningsprocess
+Allt innehåll som översätts till andra språk och publiceras på 1177.se ska genomgå följande granskningsprocess:
+Innehåll produceras först på svenska och följer 1177.se:sgranskningsprocess för nyproduktion, samtspråkliga riktlinjer.
+Innehållet skrivs pålättläst svenskaoch är kortfattat, max cirka 500 ord.
+Innehållet skickas till översättningsbyrå för översättning av en professionell översättare, samt korrekturläsning av en professionell korrekturläsare. Professionell innebär att hen är utbildad och har beprövad erfarenhet.
+Publiceringen sker direkt i vårt CMS, eller på Mediaflow om det är en film.
+Alla publicerade översättningar ska granskas på sajten av en professionell översättare eller korrekturläsare.
+Alla publicerade översättningar ska ha en ansvarig redaktör som hanterar inkommande synpunkter.
+Alla publicerade översättningar ska revideras samtidigt som den lättlästa förlagan, som i sin tur ska granskas i samband med den längre ursprungsartikeln på svenska om det finns en sådan.
+Helst ska översättningarna också granskas av tredje part, och gärna av någon med medicinsk kompetens. Det innebär alltså ytterligare en granskning innan publicering.
+Bild, film och ljud
+För bästa tillgänglighet ska texten helst också finnas inläst på ljudfil och ha bildstöd, i form av illustration, fotografi eller bildspel.Filmer ska vara kortfattade och ha en voiceover, samt ha undertexter på respektive språk.
+Sökbarhet för översättningar på 1177.se
+1177.se bör genomföra samtliga punkter nedan för att öka sökbarheten och tillgängligheten för översättningarna:
+Lista språken i bokstavsordning på sidan Other languages.
+Svenska artiklar som är översatta ska ha länk till respektive översättning. Översättningarna listas då längst ner på sidan i blocket Andra språk/Other languages.
+Översättningar ska ha länk till den svenska förlagan i bryggan.
+Länka till relevant övrigt innehåll från översättningarna, oavsett om det är andra översättningar eller innehåll på svenska. Länkar till svenskt innehåll bör märkas ut med förtydligande på det översatta språket.
+All information på respektive språk ska vara samlad på endast en webbsida/språksida, med olika underkategorier som tydliggör innehållet.
+Att förvalta översättningarna
+Allt innehåll som publiceras på 1177.se innebär en framtida förvaltningskostnad. Det innebär att det bör finnas medel för att revidera materialet regelbundet.
+Förvaltningskostnaden består av kostnad för följande:
+redaktörer
+översättning och två språkliga kvalitetsgranskningar (en innan publicering och en efter publicering).
+Allt innehåll som publiceras på 1177.se bör ha en förvaltningsplan vid publicering. Det innebär att framtida kostnader ska vara täckta.
+Översättningarna ska revideras samtidigt som den lättlästa förlagan. De ska avpubliceras om de blir inaktuella och det inte finns ekonomisk möjlighet att uppdatera dem.
+Regionalt publicerade översättningar på 1177.se
+Behovs- och målgruppsanalysen visar att det kan finnas behov av vissa språk på regional nivå, men inte på nationell. Ett sådant exempel är minoritetsspråken.
+Regioner har möjlighet att publicera språk på de regionaliserade sidorna på 1177.se. Smidigast är att regioner tar fram översättningen utifrån en nationell lättläst artikel, men om behovet finns kan de först skapa en egen lättläst text.
+De regionala redaktionerna behöver göra följande för att publicera en språkartikel:
+Stämma av översättningsbehovet med andra regioner samt nationellt, för effektiv samverkan och ett harmoniserat utbud på sajten.
+Följa 1177.se:s språkliga riktlinjer, kvalitetsgranskade översättningsprocess och rutiner förpublicering av regionala översättningar.
+Säkerställa att alla översättningar som publiceras regionalt revideras i samband med den svenska källtexten. Revideringar av de nationella lättlästa texterna rapporteras i veckolistan från nationella redaktionen.
+Här finnsstegvisa instruktionerför publicering av regionala översättningar i Opti, samt saker att tänka på inför beställning av översättningar.
+I behovsanalysen framkom det att direkt marknadsföring av översättningarna i riktade kanaler är avgörande för att målgrupperna ska hitta översättningarna på 1177.se. Marknadsför därför gärna!
+Beställningar på översättningar görs till Inera AB
+Aktörer som vill finansiera nyproduktion av översättningar ska gå via Inera AB. Det kan till exempel vara projekt inom olika regioner eller andra samhällsaktörer, alternativt ett externt finansierat projekt inom Invånartjänster.
+Aktörerna bör kontakta enhetschef på 1177.se:s nationella redaktion tidigt i processen för avstämning.
+Länkning till andra webbplatsers översättningar
+När andra aktörer har relevant översatt material som rör hälso- och sjukvård på sina webbplatser kan vi länka till dem, förutsatt att1177.se:s länkriktlinjerföljs och att det finns en relevant plats att publicera länken på.
+Externa länkar ska leda in direkt till den översatta texten på respektive språk. Finns det en koppling till en redan översatt artikel kan en extern länk läggas där. Finns det ingen relevant översatt artikel på samma område kan en extern länk läggas in som länk på språksidan.
+Tipsa & dela artikeln
+Dela på facebook
+Dela på twitter
+Dela via mejl
+Skriv ut sidan
+Hitta på sidan
+Strategi för översättningar
+Vilka språk översätter vi till?
+De nationella minoritetsspråken
+Svenskt teckenspråk
+Vilken information är viktigast att översätta?
+Kvalitetsgranskad översättningsprocess
+Sökbarhet för översättningar på 1177.se
+Att förvalta översättningarna
+Regionalt publicerade översättningar på 1177.se
+Beställningar på översättningar görs till Inera AB
+Länkning till andra webbplatsers översättningar
+1177
+–tryggt om din hälsa och vård
+På 1177.se får du råd om hälsa och information om sjukdomar och vilka mottagningar du kan kontakta. Logga in för att läsa din journal och göra dina vårdärenden. Ring telefonnummer 1177 för sjukvårdsrådgivning dygnet runt.1177 ger dig råd när du vill må bättre.
+Other Languages
+Lätt svenska
+Om 1177
+E-tjänster
+Aktuellt
+Kontakt
+Press
+Digital tillgänglighet
+Other Languages
+Lätt svenska
+Om 1177
+E-tjänster
+Aktuellt
+Kontakt
+Press
+Digital tillgänglighet
+Behandling av personuppgifter
+Hantering av kakor
+Inställningar för kakor
+1177 – en tjänst frånInera.

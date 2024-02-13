@@ -1,0 +1,78 @@
+Till sidans huvudinnehåll
+Besök 1177.se, logga in för personliga e-tjänster eller ring 1177 för sjukvårdsrådgivning.
+Logga inpå 1177.se
+Hitta vårdpå 1177.se
+Sökpå 1177.se
+Meny
+Liv & hälsa
+Barn & gravid
+Olyckor & skador
+Sjukdomar & besvär
+Undersökning & behandling
+Så fungerar vården
+Start
+Att arbeta i Optimizely
+Regionalt
+Skapa en revideringsplan för regionala sidor
+Skapa en revideringsplan för regionala sidor
+För att 1177.se ska vara aktuell behöver vi uppdatera alla artiklar regelbundet. De regionala redaktionerna ansvarar för att de regionala tillägg och sidor som finns är uppdaterade och aktuella. Här kan du läsa mer om hur du kan använda produktionsplaneringen i Optimizely för att skapa en revideringsplan.
+EpiServer har bytt namn till Optimizely
+När vi publicerar på 1177.se använder vi publiceringssystemet Optimizely, Opti.
+Tidigare hette publiceringsverktyget EpiServer, Epi, och fungerade på samma sätt.
+Det gamla namnet kan stå kvar i vissa instruktioner.
+Det är viktigt att du har en plan för hur det regionala ska förvaltas, så att det är aktuellt,kvalitetssäkratoch rätt placerat. Här är några tips:
+Se över de regionala tilläggen.
+Avpublicera innehållsom inte längre är aktuellt.
+Använd produktionsplaneringen i EPi för att få en överblick över de regionala artiklarna.
+Se till att alla regionala sidor har datum för nästa revidering
+Regionens sidor behöver ha ett datum för nästa revidering för att verktyget för produktionsplanering ska fungera.
+Så här gör du för att sätta ett datum för nästa revidering
+Skapa din sida eller öppna en befintlig sida.
+Välj fliken Planering.
+Fyll i datum för när sidan skapades.
+Fyll i datum för nästa revidering.
+Så här gör du för att lista alla regionala sidor
+Du kanlista alla regionens artiklaroch sedan gå igenom dem och sätta revideringsdatum på sidor som inte har ett datum. Det är ett trist jobb att göra men när du väl gjort det underlättar det mycket.
+När alla artiklar har ett datum för revidering kan du ta fram en lista över de artiklar som ska revideras en viss period.
+Gå till fliken Rapporter i EPi-Server
+Välj rapport för sidor
+Klicka på de länkar som finns vid Kommande revideringsdatum i produktionsplaneringen.
+Läs mer om regionala tillägg och sidor
+Om regionala tillägg och sidor på 1177.se
+Process för kvalitetssäkrat innehåll
+Att tänka på när du jobbar med en text
+Lägga upp regional information
+Tipsa & dela artikeln
+Dela på facebook
+Dela på twitter
+Dela via mejl
+Skriv ut sidan
+Hitta på sidan
+Se till att alla regionala sidor har datum för nästa revidering
+Så här gör du för att lista alla regionala sidor
+Aktuella artiklar
+Anmäla buggar, fel och förbättringsförslag
+Anmäl buggar och tekniska fel på sajten till Ineras Kundservice. Kontakta också Kundservice om du har förbättringsförslag eller frågor om själva innehållet på sajten. Din synpunkt skickas vidare till ansvarig redaktör.
+1177
+–tryggt om din hälsa och vård
+På 1177.se får du råd om hälsa och information om sjukdomar och vilka mottagningar du kan kontakta. Logga in för att läsa din journal och göra dina vårdärenden. Ring telefonnummer 1177 för sjukvårdsrådgivning dygnet runt.1177 ger dig råd när du vill må bättre.
+Other Languages
+Lätt svenska
+Om 1177
+E-tjänster
+Aktuellt
+Kontakt
+Press
+Digital tillgänglighet
+Other Languages
+Lätt svenska
+Om 1177
+E-tjänster
+Aktuellt
+Kontakt
+Press
+Digital tillgänglighet
+Behandling av personuppgifter
+Hantering av kakor
+Inställningar för kakor
+1177 – en tjänst frånInera.

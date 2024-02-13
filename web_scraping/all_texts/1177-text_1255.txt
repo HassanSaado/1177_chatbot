@@ -1,0 +1,109 @@
+Till sidans huvudinnehåll
+Besök 1177.se, logga in för personliga e-tjänster eller ring 1177 för sjukvårdsrådgivning.
+Logga inpå 1177.se
+Hitta vårdpå 1177.se
+Sökpå 1177.se
+Meny
+Liv & hälsa
+Barn & gravid
+Olyckor & skador
+Sjukdomar & besvär
+Undersökning & behandling
+Så fungerar vården
+Start
+Att arbeta i Optimizely
+Instruktioner och riktlinjer
+Arbeta med artiklar
+Arbeta med artiklar
+Här hittar du information som är bra att känna till när du arbetar med artiklar i Optimizely.
+Innehåll - Arbeta med artiklar
+Skapa en artikelsidaInstruktioner för att skapa en ny artikel på 1177.se.
+Skapa en artikelsida
+Instruktioner för att skapa en ny artikel på 1177.se.
+ArtikelpuffarInstruktioner för hur du gör artikelpuffar på 1177.se, både nationella och regionala puffar.
+Artikelpuffar
+Instruktioner för hur du gör artikelpuffar på 1177.se, både nationella och regionala puffar.
+Avpublicera en sidaInstruktioner för hur du gör när du ska avpublicera en sida.
+Avpublicera en sida
+Instruktioner för hur du gör när du ska avpublicera en sida.
+Beskrivning av olika blockInstruktioner för hur du arbetar med olika block på 1177.se.
+Beskrivning av olika block
+Instruktioner för hur du arbetar med olika block på 1177.se.
+KapitelbehållarblockKapitelbehållarblock gör att du kan lägga flera olika block i ett kapitel.
+Kapitelbehållarblock
+Kapitelbehållarblock gör att du kan lägga flera olika block i ett kapitel.
+KategorierHur och varför kategoriserar jag en artikel? Det får du svaret på här.
+Kategorier
+Hur och varför kategoriserar jag en artikel? Det får du svaret på här.
+KortadresserLär dig hur du ger en artikel en kortare adress.
+Kortadresser
+Lär dig hur du ger en artikel en kortare adress.
+Pdf:erInstruktioner för att arbeta med pdf:er och andra dokument på 1177.se.
+Pdf:er
+Instruktioner för att arbeta med pdf:er och andra dokument på 1177.se.
+Personblock och avsändarrutaInstruktioner för att arbeta med avsändare och personblock på 1177.se
+Personblock och avsändarruta
+Instruktioner för att arbeta med avsändare och personblock på 1177.se
+Planeringsfliken: riktlinjer och instruktionerJu tydligare du fyller i planeringsfliken desto lättare blir det för den redaktör som ska arbeta med texten nästa gång.
+Planeringsfliken: riktlinjer och instruktioner
+Ju tydligare du fyller i planeringsfliken desto lättare blir det för den redaktör som ska arbeta med texten nästa gång.
+Redigera en befintlig artikelInstruktioner för hur du redigerar en befintlig artikel på 1177.se.
+Redigera en befintlig artikel
+Instruktioner för hur du redigerar en befintlig artikel på 1177.se.
+RedirectsIbland behöver du göra en redirect, det vill säga låta en gammal url leda vidare till en annan sida. Här kan du läsa om hur du gör det.
+Redirects
+Ibland behöver du göra en redirect, det vill säga låta en gammal url leda vidare till en annan sida. Här kan du läsa om hur du gör det.
+Revidera en artikelHär kan du se en film om hur du reviderar en artikel med projektfunktionen.
+Revidera en artikel
+Här kan du se en film om hur du reviderar en artikel med projektfunktionen.
+Spegla en artikelKontakta ansvarig för strukturen om du vill spegla en artikel.
+Spegla en artikel
+Kontakta ansvarig för strukturen om du vill spegla en artikel.
+VersionshanteringIbland kan du behöva jämföra två versioner av samma text. Här kan du läsa hur du gör.
+Versionshantering
+Ibland kan du behöva jämföra två versioner av samma text. Här kan du läsa hur du gör.
+Mer på 1177.se
+Skapa och revidera innehåll på 1177.se
+Här finns instruktioner och information om våra processer och granskningsflöde. Du hittar också information om vad som kan vara regional information.
+Textstrukturer i artiklar
+Här hittar du strukturer för många texter. De flesta är översiktliga, men i texten om sjukdomar hittar du mer utförlig information. Läs den först.
+Bild och film
+Här finns instruktioner om hur du arbetar med bild och film i Optimizely.
+Regionalt
+Här finns information för dig som är regional redaktör eller arbetar med regionalt material i Optimizely.
+Aktuella artiklar
+Anmäla buggar, fel och förbättringsförslag
+Anmäl buggar och tekniska fel på sajten till Ineras Kundservice. Kontakta också Kundservice om du har förbättringsförslag eller frågor om själva innehållet på sajten. Din synpunkt skickas vidare till ansvarig redaktör.
+Att arbeta i Optimizely
+När vi publicerar på 1177.se använder vi publiceringssystemet Optimizely, Opti. 
+
+Här hittar du instruktioner för nästan alla funktioner i Opti.
+
+Tidigare hette publiceringsverktyget EpiServer, Epi, och fungerade på samma sätt.
+Riktlinjer för språket
+Här kan du läsa om språket på 1177 och UMO.
+Riktlinjer för bild och video
+Här finns riktlinjer, instruktioner och information om hur du lägger in bilder och filmer i artiklar. Det finns även information om bildrättigheter och avtal.
+1177
+–tryggt om din hälsa och vård
+På 1177.se får du råd om hälsa och information om sjukdomar och vilka mottagningar du kan kontakta. Logga in för att läsa din journal och göra dina vårdärenden. Ring telefonnummer 1177 för sjukvårdsrådgivning dygnet runt.1177 ger dig råd när du vill må bättre.
+Other Languages
+Lätt svenska
+Om 1177
+E-tjänster
+Aktuellt
+Kontakt
+Press
+Digital tillgänglighet
+Other Languages
+Lätt svenska
+Om 1177
+E-tjänster
+Aktuellt
+Kontakt
+Press
+Digital tillgänglighet
+Behandling av personuppgifter
+Hantering av kakor
+Inställningar för kakor
+1177 – en tjänst frånInera.

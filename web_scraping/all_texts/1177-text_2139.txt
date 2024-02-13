@@ -1,0 +1,64 @@
+Till sidans huvudinnehåll
+Besök 1177.se, logga in för personliga e-tjänster eller ring 1177 för sjukvårdsrådgivning.
+Logga inpå 1177.se
+Hitta vårdpå 1177.se
+Sökpå 1177.se
+Meny
+Liv & hälsa
+Barn & gravid
+Olyckor & skador
+Sjukdomar & besvär
+Undersökning & behandling
+Så fungerar vården
+Start
+Att arbeta i Optimizely
+Bild och film
+Bild och film
+Här finns instruktioner om hur du arbetar med bild och film i Optimizely.
+Innehåll - Bild och film
+FilmerAlla filmer ska först läggas upp i Mediaflow, där du hämtar en kod för inbäddning . Klistra in koden i filmblocket i Opti. Vi bäddar inte in filmer från Youtube eller Vimeo längre. Vill du visa en film som ligger på Youtube eller Vimeo gör du en textlänk till filmen.
+Filmer
+Alla filmer ska först läggas upp i Mediaflow, där du hämtar en kod för inbäddning . Klistra in koden i filmblocket i Opti. Vi bäddar inte in filmer från Youtube eller Vimeo längre. Vill du visa en film som ligger på Youtube eller Vimeo gör du en textlänk till filmen.
+BildspelSå här gör du ett bildspel.
+Bildspel
+Så här gör du ett bildspel.
+BilderInstruktioner för hur du laddar upp bilder till Optimizely och hur du lägger till en bild i en artikel.
+Bilder
+Instruktioner för hur du laddar upp bilder till Optimizely och hur du lägger till en bild i en artikel.
+Mer om bild och film
+Riktlinjer för bild och video
+Här finns riktlinjer, instruktioner och information om hur du lägger in bilder och filmer i artiklar. Det finns även information om bildrättigheter och avtal.
+Mer på 1177.se
+Anmäla buggar, fel och förbättringsförslag
+Anmäl buggar och tekniska fel på sajten till Ineras Kundservice. Kontakta också Kundservice om du har förbättringsförslag eller frågor om själva innehållet på sajten. Din synpunkt skickas vidare till ansvarig redaktör.
+Att arbeta i Optimizely
+När vi publicerar på 1177.se använder vi publiceringssystemet Optimizely, Opti. 
+
+Här hittar du instruktioner för nästan alla funktioner i Opti.
+
+Tidigare hette publiceringsverktyget EpiServer, Epi, och fungerade på samma sätt.
+Riktlinjer för språket
+Här kan du läsa om språket på 1177 och UMO.
+1177
+–tryggt om din hälsa och vård
+På 1177.se får du råd om hälsa och information om sjukdomar och vilka mottagningar du kan kontakta. Logga in för att läsa din journal och göra dina vårdärenden. Ring telefonnummer 1177 för sjukvårdsrådgivning dygnet runt.1177 ger dig råd när du vill må bättre.
+Other Languages
+Lätt svenska
+Om 1177
+E-tjänster
+Aktuellt
+Kontakt
+Press
+Digital tillgänglighet
+Other Languages
+Lätt svenska
+Om 1177
+E-tjänster
+Aktuellt
+Kontakt
+Press
+Digital tillgänglighet
+Behandling av personuppgifter
+Hantering av kakor
+Inställningar för kakor
+1177 – en tjänst frånInera.

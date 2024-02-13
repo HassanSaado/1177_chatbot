@@ -1,0 +1,78 @@
+Till sidans huvudinnehåll
+Besök 1177.se, logga in för personliga e-tjänster eller ring 1177 för sjukvårdsrådgivning.
+Logga inpå 1177.se
+Hitta vårdpå 1177.se
+Sökpå 1177.se
+Meny
+Liv & hälsa
+Barn & gravid
+Olyckor & skador
+Sjukdomar & besvär
+Undersökning & behandling
+Så fungerar vården
+Start
+Att arbeta i Optimizely
+Instruktioner och riktlinjer
+Fokusrutor
+Fokusrutor
+En fokusruta kan användas när du vill förtydliga viktig information i huvudtexten. Innehållet ska vara kort och ha ett enda fokus.
+EpiServer har bytt namn till Optimizely
+När vi publicerar på 1177.se använder vi publiceringssystemet Optimizely, Opti.
+Tidigare hette publiceringsverktyget EpiServer, Epi, och fungerade på samma sätt.
+Det gamla namnet kan stå kvar i vissa instruktioner.
+Tänk på det här när du använder en fokusruta:
+En fokusruta ska ha ett enda fokus.
+Håll texten kort. Ju längre texten är desto mer svårläst blir den i en liten fokusruta.
+En ruta uppfattas som en bild, det vill säga den drar blicken till sig. Det kan göra att läsaren uppfattar rutan som det mest viktiga i texten, beroende på var den ligger.
+Välj rätt ikon för fokusrutan: varning, information eller ingen alls, se exemplen nedan.
+Så skapar du en fokusruta
+Du väljer fokusruta när du skapar ett nytt block i din artikel.
+Här finns enbeskrivning av vad du ska skriva i de olika fältennär du skapar en fokusruta.
+När passar det att använda fokusruta?
+Vid följande situationer kan det vara bra att använda en fokusruta:
+Du vill uppmärksamma användaren på att söka vård snabbt.
+Till exempel vid stroke:
+Det kan gälla en instruktion för egenvård. Till exempel vid löss:
+Det kan vara att sjukdomen är allvarlig, att du ska stanna hemma vid symtom eller att du kan vaccinera dig. Lägg gärna till region i rubriken:
+Exempel på text:
+Gör så här för att undvika att bli sjuk:
+Tvätta händerna.
+Stanna hemma vid symtom.
+Håll avstånd.
+Exempel på text:Ring inte 1177 för att boka vaccination.
+När passar det inte att använda en fokusruta?
+En fokusruta är inte lämplig att använda för texter som är längre än några meningar. De passar inte heller bra för text med långa förklaringar.
+Fokusruta och meddelanderuta används för olika innehåll
+Tänk också på att fokusrutan inte ska ha innehåll av den typ som ska ligga i enmeddelanderuta. En fokusruta används för att förtydliga något i den huvudtext den tillhör, medan meddelanderutan ska användas vid allvarliga incidenter som påverkar en större del av befolkningen.
+Tipsa & dela artikeln
+Dela på facebook
+Dela på twitter
+Dela via mejl
+Skriv ut sidan
+Hitta på sidan
+Så skapar du en fokusruta
+När passar det att använda fokusruta?
+När passar det inte att använda en fokusruta?
+1177
+–tryggt om din hälsa och vård
+På 1177.se får du råd om hälsa och information om sjukdomar och vilka mottagningar du kan kontakta. Logga in för att läsa din journal och göra dina vårdärenden. Ring telefonnummer 1177 för sjukvårdsrådgivning dygnet runt.1177 ger dig råd när du vill må bättre.
+Other Languages
+Lätt svenska
+Om 1177
+E-tjänster
+Aktuellt
+Kontakt
+Press
+Digital tillgänglighet
+Other Languages
+Lätt svenska
+Om 1177
+E-tjänster
+Aktuellt
+Kontakt
+Press
+Digital tillgänglighet
+Behandling av personuppgifter
+Hantering av kakor
+Inställningar för kakor
+1177 – en tjänst frånInera.

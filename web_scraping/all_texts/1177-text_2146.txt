@@ -1,0 +1,117 @@
+Till sidans huvudinnehåll
+Besök 1177.se, logga in för personliga e-tjänster eller ring 1177 för sjukvårdsrådgivning.
+Logga inpå 1177.se
+Hitta vårdpå 1177.se
+Sökpå 1177.se
+Meny
+Liv & hälsa
+Barn & gravid
+Olyckor & skador
+Sjukdomar & besvär
+Undersökning & behandling
+Så fungerar vården
+Start
+Om 1177
+1177-appen
+Integritetspolicy för 1177-appen
+Integritetspolicy för 1177-appen
+1177-appen är en ingång till olika e-tjänster som erbjuds av Sveriges regioner. Syftet med appen är att du ska kunna använda e-tjänsterna direkt i mobiltelefonen på ett enkelt och smidigt sätt.
+Inera och regionerna värnar om din personliga integritet.
+Den här texten förklarar hur dina personuppgifter hanteras när du använder 1177-appen. Texten beskriver också dina rättigheter och hur du kan använda dig av dem.
+Inera AB behandlar personuppgifter åt regionerna
+Inera AB utvecklar och förvaltar 1177-appen åt regionerna.
+Regionen ansvarar för hur dina personuppgifter används i e-tjänsterna som nås genom appen.
+Inera AB är personuppgiftsbiträde. Det betyder att Inera AB behandlar personuppgifterna åt regionerna.
+Vilken information samlas in?
+1177-appen samlar inte in personuppgifter. All insamling av personuppgifter utförs i den e-tjänst som du väljer att använda.
+Användardata
+När du använder 1177-appen behandlas din användardata i mobiltelefonen som appen är installerad på. Det görs för att du ska få en så bra användarupplevelse som möjligt. Exempel på sådan data är information om din enhets operativsystem och när appen senast öppnades.
+All kommunikation sker krypterad mellan dessa e-tjänster och din mobiltelefon.
+Tillgång till funktioner på enheten
+1177-appen kan be om tillgång till olika funktioner på den mobiltelefon som appen är installerad.
+När du inte är inloggad i en e-tjänst kan appen begära tillgång till:
+Geografisk placering: Det behövs för att hitta och visa mottagningar nära dig på en karta.
+När du är inloggad i en e-tjänst kan appen begära tillgång till:
+Geografisk placering: Det behövs för att hitta och visa mottagningar nära dig på en karta.
+Kamera: Det behövs för att ta bilder med kameran och skicka direkt i kommunikationen med vårdgivare.
+Bilder: Det behövs för att skicka bilder i kommunikationen med vårdgivare.
+Läsa och skriva i lagringsytan: Det behövs för att skicka och ta emot filer i kommunikationen med vårdgivare. Filerna lagras tillfälligt i en särskild lagringsyta i appen.
+Du får upp en dialogruta på skärmen som frågar om du godkänner att appen använder funktionerna.
+Du kan välja att inte godkänna, men då kan du inte använda de olika e-tjänsterna på bästa sätt.
+Hantering av kakor
+1177-appen använder kakor.
+En kaka är en textfil som sparas ner på din mobiltelefon när du går in på en webbplats. Kakan innehåller information om vad du gör på webbplatsen. Kakor heter cookies på engelska.
+PåPost- och telestyrelsens webbplatskan du läsa mer om kakor, hur du kan hantera kakor och vad som står i lagen.
+Vilka kakor använder 1177-appen?
+tillfälliga kakor. De kallas också sessionskakor.
+varaktiga kakor. De kallas också persistenta kakor.
+Tillfälliga kakor gör så att e-tjänsterna som du når genom appen fungerar så bra som möjligt under ditt besök. Kakorna raderas från din mobiltelefon när du loggar ut från någon av e-tjänsterna via appen eller stänger appen.
+Varaktiga kakor gör så att e-tjänsterna som du når genom appen kommer ihåg dina inställningar till nästa gång du loggar in. Kakorna raderas från din mobiltelefon med ett visst intervall. Läs omHantering av kakor på 1177.se.
+Vilka kan 1177-appen dela dina uppgifter med?
+1177-appen delar endast kakor med de e-tjänster som du når genom appen.
+Den region som ansvarar för respektive e-tjänst har endast rätt att hantera kakor för att du ska få tillgång till deras specifika e-tjänst och funktionalitet.
+Var lagras dina personuppgifter?
+1177-appen lagrar inte personuppgifter.
+De olika e-tjänsterna som du når genom appen hanterar och lagrar vissa uppgifter om dig.
+Hur länge sparas dina personuppgifter?
+1177-appen sparar inte personuppgifter.
+All lagring av personuppgifter utförs i e-tjänsterna som du når via appen.
+Vilka är dina rättigheter?
+Du når olika e-tjänster via appen. Du har följande rättigheter när det gäller hur personuppgifter om dig behandlas där:
+Begära att få information om personuppgifter som behandlas
+Du har rätt att få veta vilka personuppgifter som behandlas om dig.
+Begära rättelse av felaktiga eller ofullständiga personuppgifter
+Du har rätt att begära att få personuppgifter rättade om du tycker att uppgifterna är fel eller att det saknas information.
+Begära radering
+Du har rätt att begära att få personuppgifter raderade om uppgifterna inte längre är nödvändiga för det syfte som de samlades in. Det kallas för rätten att bli glömd.
+Det kan finnas särskilda krav på e-tjänsterna som betyder att det inte går att radera personuppgifter.
+Begära begränsning av behandling av personuppgifter
+Du har i vissa fall rätt att begära att användningen av dina personuppgifter tillfälligt begränsas.
+Vill du använda dig av dina rättigheter?
+Om du vill använda dig av dina rättigheter, läs informationen som finns i anslutning till respektive e-tjänst.
+Vill du klaga?
+Vi vill att du berättar för oss om du tycker att 1177-appen behandlar personuppgifter om dig i strid med gällande dataskyddslagstiftning. Det gör du enklast genom att kontakta vårt dataskyddsombud viadataskyddsombud@inera.se.
+Kontakta regionens dataskyddsombud om du tycker att e-tjänsterna du når via appen behandlar dina personuppgifter i strid med gällande dataskyddslagstiftning.
+Du har även rätt att lämna in ett klagomål tillIntegritetsskyddsmyndigheten.
+Tjänster utvecklas hela tiden
+1177-appen och e-tjänster utvecklas hela tiden. Informationen i den här texten kan när som helst ändras.
+Tipsa & dela artikeln
+Dela på facebook
+Dela på twitter
+Dela via mejl
+Skriv ut sidan
+Hitta på sidan
+Vilken information samlas in?
+Användardata
+Tillgång till funktioner på enheten
+Hantering av kakor
+Vilka kan 1177-appen dela dina uppgifter med?
+Var lagras dina personuppgifter?
+Hur länge sparas dina personuppgifter?
+Vilka är dina rättigheter?
+Vill du använda dig av dina rättigheter?
+Vill du klaga?
+Tjänster utvecklas hela tiden
+1177
+–tryggt om din hälsa och vård
+På 1177.se får du råd om hälsa och information om sjukdomar och vilka mottagningar du kan kontakta. Logga in för att läsa din journal och göra dina vårdärenden. Ring telefonnummer 1177 för sjukvårdsrådgivning dygnet runt.1177 ger dig råd när du vill må bättre.
+Other Languages
+Lätt svenska
+Om 1177
+E-tjänster
+Aktuellt
+Kontakt
+Press
+Digital tillgänglighet
+Other Languages
+Lätt svenska
+Om 1177
+E-tjänster
+Aktuellt
+Kontakt
+Press
+Digital tillgänglighet
+Behandling av personuppgifter
+Hantering av kakor
+Inställningar för kakor
+1177 – en tjänst frånInera.
